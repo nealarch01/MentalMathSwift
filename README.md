@@ -23,8 +23,8 @@ swiftc -o a main.swift
 
 
 # Video:
+https://user-images.githubusercontent.com/73256760/209712441-184d10aa-d392-4464-afad-d5bcd1c8bf48.mov
 
-https://user-images.githubusercontent.com/73256760/209710132-6f6a4407-9dff-480d-88e5-90d13a8d7213.mov
 
 
 
