@@ -1,0 +1,4 @@
+Enqueueing expression at 0.0 seconds
+Enqueueing expression at 3.0 seconds
+Enqueueing expression at 6.0 seconds
+Enqueueing expression at 9.0 seconds
