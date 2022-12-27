@@ -234,7 +234,7 @@ func answerThread(expressionQueue: inout Queue<Expression>, duration: Double, ac
 func main() {
     var expressionQueue = Queue<Expression>()
     // Initialize the queue 
-    for _ in 0..<1 {
+    for _ in 0..<3{
         expressionQueue.enqueue(Expression())
     }
     let argc = CommandLine.argc
